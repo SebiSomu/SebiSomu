@@ -9,10 +9,10 @@ My name is Sebi Somu and I'm a CS student in my 2nd year of my Bachelor's progra
 
 - ### Connect with me:
 <p align="left">
-  <a href="[Sebastian Șomu](https://www.linkedin.com/in/sebastian-%C8%99omu-29667738b/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sebastian-%C8%99omu-29667738b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="[sebii__sm](https://www.instagram.com/sebii__sm/)" target="_blank">
+  <a href="https://www.instagram.com/sebii__sm/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
