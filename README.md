@@ -20,6 +20,6 @@ My name is Sebi Șomu and I'm a CS student in my 2nd year of my Bachelor's progr
 ### 🛠️ Languages and Tools:
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,vue,angular,nextjs,cs,java,c,rust,go,php,postgres,sqlite,mongodb,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,vue,angular,nextjs,cs,java,r,c,rust,go,php,postgres,sqlite,mongodb,mysql,git" />
 </a>
 </p>
