@@ -2,7 +2,7 @@
 
 My name is Sebi Șomu and I'm a CS student in my 2nd year of my Bachelor's program. I'm pasionate about technology and always in the process of its learning diverse concepts, especially about web applications and applying algorithms in solving complex and real problems of the world. 
 -  🔭 I’m currently working on [THE-GAME](https://github.com/Khaens/THE-GAME) and [Sorting-Algorithms-Analysis](https://github.com/SebiSomu/Sorting-Algorithms-Analysis);
-- 🌱 I’m currently learning **Angular**, **.NET WPF** and **Genetic Algorithms**;
+- 🌱 I’m currently learning **.NET WPF**, **Django** and **Genetic Algorithms**;
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/);
 - 📫 My personal e-mail address: sebigsomu@gmail.com;
 - ⚡ Fun fact: I love playing board games, hence why 3 of my projects are based on such games.
@@ -20,6 +20,6 @@ My name is Sebi Șomu and I'm a CS student in my 2nd year of my Bachelor's progr
 ### 🛠️ Languages and Tools:
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,vue,angular,nextjs,cs,java,r,c,rust,go,php,postgres,sqlite,mongodb,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,vue,angular,svelte,solidjs,nextjs,cs,java,r,c,rust,go,php,django,postgres,sqlite,mongodb,mysql,git" />
 </a>
 </p>
