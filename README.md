@@ -9,12 +9,9 @@ My name is Sebi Șomu and I'm a CS student in my 2nd year of my Bachelor's progr
 
 <div align="left">
   <h3 style="display: inline;">Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/sebastian-%C8%99omu-29667738b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align: middle; margin-left: 10px;" />
-  </a>
-  <a href="https://www.instagram.com/sebii__sm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="vertical-align: middle; margin-left: 5px;" />
-  </a>
+    <a href="https://www.linkedin.com/in/sebastian-%C8%99omu-29667738b/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="vertical-align: middle; margin-left: 10px;" /></a>
+    <a href="https://www.instagram.com/sebii__sm/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="vertical-align: middle; margin-left: 5px;" /></a>
 </div>
 
 ### 🛠️ Languages and Tools:
